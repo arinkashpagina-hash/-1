@@ -5,6 +5,7 @@
 #include <locale.h>
 
 
+
 double calculate_Q(double x) {
     if (x < 6.2) {
 
